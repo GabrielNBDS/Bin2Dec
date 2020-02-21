@@ -1,0 +1,15 @@
+header{
+    color: #FFF;
+    background-color: #000;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 5vh;
+
+    & span {
+        color: #FFE600;
+    }
+}
