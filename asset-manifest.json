@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bin2Dec/static/css/main.b130d65f.chunk.css",
+    "main.js": "/Bin2Dec/static/js/main.e2664f4f.chunk.js",
+    "main.js.map": "/Bin2Dec/static/js/main.e2664f4f.chunk.js.map",
+    "runtime-main.js": "/Bin2Dec/static/js/runtime-main.454f4e0f.js",
+    "runtime-main.js.map": "/Bin2Dec/static/js/runtime-main.454f4e0f.js.map",
+    "static/js/2.a126944b.chunk.js": "/Bin2Dec/static/js/2.a126944b.chunk.js",
+    "static/js/2.a126944b.chunk.js.map": "/Bin2Dec/static/js/2.a126944b.chunk.js.map",
+    "index.html": "/Bin2Dec/index.html",
+    "precache-manifest.f5e801e7a7f219dfac28261ddfad1882.js": "/Bin2Dec/precache-manifest.f5e801e7a7f219dfac28261ddfad1882.js",
+    "service-worker.js": "/Bin2Dec/service-worker.js",
+    "static/css/main.b130d65f.chunk.css.map": "/Bin2Dec/static/css/main.b130d65f.chunk.css.map",
+    "static/js/2.a126944b.chunk.js.LICENSE.txt": "/Bin2Dec/static/js/2.a126944b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454f4e0f.js",
+    "static/js/2.a126944b.chunk.js",
+    "static/css/main.b130d65f.chunk.css",
+    "static/js/main.e2664f4f.chunk.js"
+  ]
+}
