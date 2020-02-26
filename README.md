@@ -9,3 +9,6 @@
 </p>
 
  Para rodar o projeto localmente, rode ```yarn start``` 
+
+
+A ideia desse projeto foi retirada do App Ideas Collection. Repositório deles: <a href="https://github.com/florinpop17/app-ideas"> https://github.com/florinpop17/app-ideas </a>
