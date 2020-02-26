@@ -6,6 +6,8 @@ export default function Converter() {
   const [input, setInput] = useState("");
 
   let sum = 0;
+  let inputAux;
+  let length = "";
 
   return (
     <div className="container">
@@ -14,13 +16,16 @@ export default function Converter() {
       </p>
       <form
         onSubmit={async e => {
-          let inputAux = input.split("");
+          e.preventDefault();
           sum = 0;
 
-          e.preventDefault();
+          inputAux = input;
+          
+          length = input.length;
 
-          for (var i = 0; i < input.length; i++) {
-            sum += Number(inputAux[i]) * Math.pow(2, input.length - 1 - i);
+          for (var i = 0; i < length; i++) {
+            sum += (inputAux % 2) * (2 ** i);
+            inputAux = Math.floor(inputAux / 10);
           }
 
           setTotal(sum);
