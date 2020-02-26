@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebfc80f02acf7f22279846e1f759591f",
+    "revision": "12404098667cd2a91203b68003f3447d",
     "url": "/Bin2Dec/index.html"
   },
   {
-    "revision": "0a7ad58330074c8a6036",
+    "revision": "6c52835401e0cf6f400f",
     "url": "/Bin2Dec/static/css/main.b130d65f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bin2Dec/static/js/2.a126944b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a7ad58330074c8a6036",
-    "url": "/Bin2Dec/static/js/main.e2664f4f.chunk.js"
+    "revision": "6c52835401e0cf6f400f",
+    "url": "/Bin2Dec/static/js/main.2f777573.chunk.js"
   },
   {
     "revision": "7d78a89df9bd3b7caa3e",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bin2Dec/precache-manifest.1b992ec26ca3d382d4cb2a65133d6576.js"
+  "/Bin2Dec/precache-manifest.617a66d3a8870f5739ff37672743da22.js"
 );
 
 self.addEventListener('message', (event) => {
